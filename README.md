@@ -37,7 +37,15 @@ Video tutorials are available in the Swarmix dashboard under **Help > Tutorials*
 
 ### Plugins
 
-- [Webhooks](plugins/webhooks.md) — Real-time event notifications to external HTTPS endpoints
+**Connectors:**
+- [Jira Connector](plugins/jira-connector.md) — Bidirectional sync with Jira Cloud (available, Team)
+- [Linear Connector](plugins/linear-connector.md) — Bidirectional sync with Linear (available, Team)
+- [GitHub Connector](plugins/github-connector.md) — Bidirectional sync with GitHub Issues (beta, Individual)
+- [ClickUp Connector](plugins/clickup-connector.md) — Bidirectional sync with ClickUp (beta, Individual)
+- [Slack Connector](plugins/slack-connector.md) — One-way notifications to Slack channels (available, Team)
+
+**Integrations:**
+- [Webhooks](plugins/webhooks.md) — Real-time event notifications to external HTTPS endpoints (available, Team)
 
 ### Reference
 
