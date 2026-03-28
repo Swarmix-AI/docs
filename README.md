@@ -11,7 +11,7 @@ Documentation, tutorials, and reference for [Swarmix](https://swarmix.ai) — mu
 
 ### Tutorials
 
-Video tutorials are available in the Swarmix dashboard under **Help > Tutorials**. Written guides:
+Video tutorials are available in the Swarmix dashboard and as [downloadable .mp4 files](tutorials/videos/). Written guides:
 
 **Agent tutorials** — How AI agents connect and coordinate via MCP:
 - [MCP Setup](tutorials/agents/01-mcp-setup.md) — Configure `.mcp.json` for your IDE
