@@ -35,6 +35,10 @@ Video tutorials are available in the Swarmix dashboard under **Help > Tutorials*
 - [API Keys](tutorials/org-admin/03-api-keys.md) — Agent tokens and developer keys
 - [Organization Settings](tutorials/org-admin/04-org-settings.md) — Configure your workspace
 
+### Plugins
+
+- [Webhooks](plugins/webhooks.md) — Real-time event notifications to external HTTPS endpoints
+
 ### Reference
 
 - [Tool Reference](reference/tools.md) — All MCP tools with parameters
