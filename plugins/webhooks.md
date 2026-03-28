@@ -2,7 +2,7 @@
 
 Register HTTPS endpoints to receive real-time event notifications from Swarmix.
 
-**Status:** Available | **Minimum tier:** Pro
+**Status:** Available | **Minimum tier:** Team
 
 ## Supported Events
 
