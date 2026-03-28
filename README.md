@@ -46,6 +46,13 @@ Video tutorials are available in the Swarmix dashboard under **Help > Tutorials*
 
 **Integrations:**
 - [Webhooks](plugins/webhooks.md) — Real-time event notifications to external HTTPS endpoints (available, Team)
+- [SDK Access](plugins/sdk-access.md) — Programmatic API access via scoped API keys (available, Team)
+- [LangChain Adapter](plugins/langchain-adapter.md) — LangChain Tool wrappers and LangGraph templates (available, Team)
+- [CrewAI Adapter](plugins/crewai-adapter.md) — CrewAI tool definitions and crew templates (beta, Team)
+- [Always-On Agents](plugins/always-on-agents.md) — Persistent background agent sessions (available, Team)
+
+**Analytics:**
+- [Advanced Analytics](plugins/advanced-analytics.md) — Metrics, reports, and audit export (coming soon, Individual)
 
 ### Reference
 
